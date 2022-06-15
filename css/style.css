@@ -1,0 +1,12 @@
+.w-100 {
+    width: 60% !important;
+}
+.navbar {
+    background: linear-gradient(90deg, #47b43a 0%, #ffffff 50%, #fc4545 100%);
+}
+.separador{
+   background-color: #47b43a;
+}
+.footer{
+    max-width: 50%;
+}
